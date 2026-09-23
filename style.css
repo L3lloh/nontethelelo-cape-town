@@ -1,0 +1,14 @@
+.cape-image {
+  width: 400px;
+  max-width: 100%;
+  height: auto;
+  margin-top: 15px;
+  margin-bottom: 5px;
+  border: 4px solid #ffffff;
+}
+
+.center-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
